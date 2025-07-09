@@ -48,10 +48,10 @@
 <h2 align="center">Estadísticas de GitHub 📊</h2>
 
 <div align="center"> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasquisoboni&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasquisoboni&theme=react&line_height=40&hide=css"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=quiso888&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiso888&theme=react&line_height=40&hide=css"/>
 </div>
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/nicolasquisoboni/
+[linkedin]: [https://www.linkedin.com/in/nocp/](https://www.linkedin.com/in/nicolas-muñoz-b33462252/)
