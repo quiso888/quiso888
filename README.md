@@ -24,11 +24,11 @@ Conventia es un marketplace desarrollado con WordPress donde se implementaron m�
 
 🔧 Integración con PHP: Se trabajó extensamente con código PHP para personalizar la forma en que los plugins interactúan con el tema. Esto incluyó:
 
-La creación de hooks y shortcodes personalizados para mostrar información dinámica.
+- La creación de hooks y shortcodes personalizados para mostrar información dinámica.
 
-La modificación de funciones del functions.php para extender comportamientos de WooCommerce.
+- La modificación de funciones del functions.php para extender comportamientos de WooCommerce.
 
-La inyección de lógica adicional en templates del tema para manejar comportamientos condicionales según el tipo de usuario o producto.
+- La inyección de lógica adicional en templates del tema para manejar comportamientos condicionales según el tipo de usuario o producto.
 
 🧱 Bloques HTML personalizados: Se utilizó el editor de bloques de WordPress para añadir secciones con HTML propio que permitieran mayor control visual y funcional sobre áreas clave del sitio como la página de producto, el checkout y el perfil del vendedor.
 
