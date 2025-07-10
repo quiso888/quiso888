@@ -15,7 +15,7 @@
 
 ---
 ## Proyectos
-### 🛒 Conventia – Marketplace desarrollado en WordPress y PHP
+### 🛒 Conventia – Marketplace desarrollado en WordPress y PHP                 cooventia.com
 Conventia es un marketplace desarrollado con WordPress donde se implementaron múltiples funcionalidades comerciales mediante el uso estratégico de plugins y personalización de código.
 
 📦 Plugins clave: Se utilizó WooCommerce como núcleo para la gestión de productos y transacciones, y YITH para expandir funcionalidades como listas de deseos, multivendedor y filtros avanzados.
