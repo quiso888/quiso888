@@ -32,7 +32,28 @@ Conventia is a marketplace developed using WordPress, where multiple commercial 
 - Injecting additional logic into theme templates to handle conditional behaviors based on user or product types.
 
 🧱 Custom HTML blocks: The WordPress block editor was used to insert custom HTML sections, giving greater visual and functional control over key pages such as product details, checkout, and vendor profile.
+🎮 El Sabor Cafetero – Educational video game on Quindío's gastronomy
+Developed in Roblox Studio
 
+
+### 🛒 Sabor cafetero – Cultural game develop in LUA             (https://www.roblox.com/es/games/13175046823/EL-SABOR-CAFETERO)
+El Sabor Cafetero is an educational video game created to teach players about the traditional gastronomy of the Quindío region in Colombia. It offers an interactive and engaging experience, combining cultural education with exploration-based gameplay.
+
+🍽️ Educational focus: The game aims to combat misinformation about Quindío’s cuisine by highlighting authentic dishes and ingredients, addressing issues of cultural appropriation and regional identity loss.
+
+🕹️ Gameplay mechanics: Players explore a virtual version of the Quindío region, completing missions that involve identifying ingredients, preparing typical meals, and interacting with NPCs that provide educational insights.
+
+🧩 Roblox Studio scripting:
+
+Developed with Lua scripting to manage events, interactions, quizzes, and progress tracking.
+
+Implemented GUI systems for menus, dialogue boxes, and mission tracking.
+
+Utilized DataStores for saving user progress and achievements.
+
+Integrated cultural research directly into level design and narrative elements.
+
+🌎 Cultural preservation: The project seeks to strengthen local identity and promote regional traditions through gamification, offering a fun and accessible way to learn about Colombian gastronomy.
 ---
 
 ### Contact 📝
